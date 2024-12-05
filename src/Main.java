@@ -17,7 +17,7 @@ public class Main {
         Controller controller=new Controller(vista,shortingMethods, searchMethods);
 
         //iniciar la aplicacion 
-
+        controller.start():
         
 
 
